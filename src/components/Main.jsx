@@ -1,4 +1,3 @@
-import App from "./components/App";
 function Main() {
   return <p>Este es tu primer proyecto Vite</p>;
 }
